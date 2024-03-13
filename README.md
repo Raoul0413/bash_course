@@ -1,7 +1,7 @@
 # bash_course
 
 
-![LOTR meme](lord-of-the-rings-memes-10.jpg?fit=600,502&ssl=1.jpg)
+![LOTR meme](lotr-meme.jpg)
 
 
 This repository is meant to showcase memes
