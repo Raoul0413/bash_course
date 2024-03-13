@@ -1,15 +1,4 @@
-# bash_course
+# Quote of the day
 
-
-![LOTR meme](lotr-meme.jpg)
-
-
-This repository is meant to showcase memes
-
-Only the best of the best
-
-
-This is for testing
-
-
-Some more changes
+"There is pee without poop, but there may not be poop without 'p'."
+Albert Einstein
